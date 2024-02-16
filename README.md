@@ -1,2 +1,1 @@
-# ctjs
-Ct.js Game Engine
+# Ct.js Game Engine
